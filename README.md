@@ -27,8 +27,6 @@ Here's a glimpse of my technology stack:
   <img src="https://img.shields.io/badge/mongodb%20-%2358aa50.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
-I'm always eager to enhance my skills and stay up-to-date with the latest in the tech world. Currently, I'm focused on honing my skills in [insert current focus or project].
-
 ## 🚀 Projects
 
 Here are a few projects I've worked on:
