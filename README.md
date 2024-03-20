@@ -31,11 +31,19 @@ Here's a glimpse of my technology stack:
 
 Here are a few projects I've worked on:
 
-1. **FlexWorks**
+1. **PI - Rick & Morty**
+   - Description: React Serverless App that displays data from a public API.
+   - Tech Stack: React and Axios library.
+
+2. **PI - Countries**
+   - Description: React App that loads data from a public API, it parses the data and then stores it into a local database to then display it.
+   - Tech Stack: React, Express.js, PostgreSQL, Sequelize.
+
+3. **FlexWorks**
    - Description: 
    - Tech Stack: 
 
-2. **EasySchool**
+4. **EasySchool**
    - Description: 
    - Tech Stack:
 
