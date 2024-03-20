@@ -35,7 +35,7 @@ Here are a few projects I've worked on:
    - Description: 
    - Tech Stack: 
 
-2. **EasySchool*
+2. **EasySchool**
    - Description: 
    - Tech Stack:
 
