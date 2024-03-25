@@ -1,6 +1,11 @@
 # Jonnathan Franz
 
 Welcome to my GitHub profile! I'm a junior full stack developer with a love for building web applications. I enjoy turning ideas into reality through code and am constantly learning and exploring new technologies.
+<p>
+  <a href="https://www.linkedin.com/in/jonnathan-franz-b3619b2b0/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
 ## Technologies & Tools
 
