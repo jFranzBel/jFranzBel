@@ -1,6 +1,6 @@
-# Hi there! I'm Jonnathan
+# Jonnathan Franz
 
-Welcome to my GitHub profile! I'm a passionate junior full stack developer with a love for building web applications. I enjoy turning ideas into reality through code and am constantly learning and exploring new technologies.
+Welcome to my GitHub profile! I'm a junior full stack developer with a love for building web applications. I enjoy turning ideas into reality through code and am constantly learning and exploring new technologies.
 
 ## Technologies & Tools
 
