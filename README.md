@@ -51,6 +51,8 @@ Here are a few projects I've worked on:
    - Tech Stack: Node.js, Express.js, PostgreSQL, Sequelize, nodemailer, Cloudinary, Bootstrap, Axios, jsonwebtoken, Auth0, sweetalert2, bcrypt, dotenv, express, joi, mercadopago,
    - Frontend: <a href="https://github.com/jFranzBel/front" target="_blank"> Go to the repo</a>
    - Backend: <a href="https://github.com/pfDevWorks/back" target="_blank"> Go to the repo</a>
+   <br>
+   
    Visit deploy in vercel  <a href="https://front-jfranzbel.vercel.app/" target="_blank"> Go to the repo</a>
 
 Feel free to explore my repositories to see more of my work!
