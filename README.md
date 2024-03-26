@@ -1,7 +1,7 @@
 <div align="center">
   <p>
   <a href="https://www.linkedin.com/in/jonnathan-franz-b3619b2b0/">
-    <img src="https://raw.githubusercontent.com/jFranzBel/jFranzBel/main/backgroundd.JPG"/>
+    <img src=""/>
   </a>
 </p>
 </div>
