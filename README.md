@@ -36,21 +36,38 @@ Here's a glimpse of my technology stack:
 
 Here are a few projects I've worked on:
 
-1. **Henry BootCamp PI - Rick & Morty**
+1. ### **Henry BootCamp PI - Rick & Morty**
    - Description: React Serverless App that displays data from a public API.
    - Tech Stack: React and Axios library.
 <a href="https://github.com/jFranzBel/PI-Rick-Morty" target="_blank"> Go to the repo</a>
 
-2. **Henry BootCamp PI - Countries**
+2. ### **Henry BootCamp PI - Countries**
    - Description: React App that loads data from a public API, it parses the data and then stores it into a local database to then display it.
    - Tech Stack: React, Express.js, PostgreSQL, Sequelize.
 <a href="https://github.com/jFranzBel/PI-Countries" target="_blank"> Go to the repo</a>
 
-4. **Henry BootCamp Final Proyect - EasySchool**
+4. ### **Henry BootCamp Final Proyect - EasySchool**
    - Description: A full stack App, This app emulates a ficticious but completely functional SaaS, that its core function is to be used by schools to give the service of inscribing students online to their institutions.
-   - Tech Stack: Node.js, Express.js, PostgreSQL, Sequelize, nodemailer, Cloudinary, Bootstrap, Axios, jsonwebtoken, Auth0, sweetalert2, bcrypt, dotenv, express, joi, mercadopago,
-   - Frontend: <a href="https://github.com/jFranzBel/front" target="_blank"> Go to the repo</a>
-   - Backend: <a href="https://github.com/pfDevWorks/back" target="_blank"> Go to the repo</a>
+   - Tech Stack:
+   <br>
+   
+   | Frontend | Backend |
+   |:-----    |:-----   |
+   | Axios       | mercadopago |
+   | Cloudinary   | joi |   
+   | React vite   | dotenv |
+   | Bootstrap  | bcrypt |
+   | Auth0   | jsonwebtoken |
+   | sweetalert2   | nodemailer |
+   | jwt-decode   | Sequelize |
+   |   | PostgreSQL |
+   |    | Express.js |
+   |   | Node.js |
+   <br>
+   
+   Frontend: <a href="https://github.com/jFranzBel/front" target="_blank"> Go to the repo</a>
+   
+   Backend: <a href="https://github.com/pfDevWorks/back" target="_blank"> Go to the repo</a>
    <br>
    
    Visit deploy in vercel  <a href="https://front-jfranzbel.vercel.app/" target="_blank"> Go to the deploy</a>
