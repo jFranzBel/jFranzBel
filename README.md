@@ -53,5 +53,5 @@ Here are a few projects I've worked on:
    - Backend: <a href="https://github.com/pfDevWorks/back" target="_blank"> Go to the repo</a>
    <br>
    
-   Visit deploy in vercel  <a href="https://front-jfranzbel.vercel.app/" target="_blank"> Go to the repo</a>
+   Visit deploy in vercel  <a href="https://front-jfranzbel.vercel.app/" target="_blank"> Go to the deploy</a>
 
