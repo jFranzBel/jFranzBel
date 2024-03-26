@@ -55,12 +55,3 @@ Here are a few projects I've worked on:
    
    Visit deploy in vercel  <a href="https://front-jfranzbel.vercel.app/" target="_blank"> Go to the repo</a>
 
-Feel free to explore my repositories to see more of my work!
-
-## 📫 Let's Connect!
-
-Email: jonnathan.franz.87@outlook.com
-
-[Linkedin](https://www.linkedin.com/in/jonnathan-franz-b3619b2b0/)
-
-I'm always open to collaborating on interesting projects and learning from others. Contact me on github! - let's build something awesome together!
