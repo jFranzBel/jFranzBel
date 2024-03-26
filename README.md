@@ -1,3 +1,10 @@
+<div align="center">
+  <p>
+  <a href="https://www.linkedin.com/in/jonnathan-franz-b3619b2b0/">
+    <img src="https://raw.githubusercontent.com/jFranzBel/jFranzBel/main/backgroundd.JPG"/>
+  </a>
+</p>
+</div>
 # Jonnathan Franz
 
 Welcome to my GitHub profile! I'm full stack developer with a love for building web applications. I enjoy turning ideas into reality through code and am constantly learning and exploring new technologies.
