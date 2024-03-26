@@ -45,33 +45,25 @@ Here's a glimpse of my technology stack:
 Here are a few projects I've worked on:
 
 1. ### **Henry BootCamp PI - Rick & Morty**
-   - Description: React Serverless App that displays data from a public API.
-   - Tech Stack: React and Axios library.
+   - Description: A React serverless app that retrieves and displays data from a public API.
+   - Tech Stack: React, Axios.
 <a href="https://github.com/jFranzBel/PI-Rick-Morty" target="_blank"> Go to the repo</a>
 
 2. ### **Henry BootCamp PI - Countries**
-   - Description: React App that loads data from a public API, it parses the data and then stores it into a local database to then display it.
+   - Description: A React app that fetches data from a public API, processes it, and stores it in a local database for display.
    - Tech Stack: React, Express.js, PostgreSQL, Sequelize.
 <a href="https://github.com/jFranzBel/PI-Countries" target="_blank"> Go to the repo</a>
 
 4. ### **Henry BootCamp Final Proyect - EasySchool**
-   - Description: A full stack App, This app emulates a ficticious but completely functional SaaS, that its core function is to be used by schools to give the service of inscribing students online to their institutions.
+   - Description:  A full-stack app designed to simplify student enrollment for schools. It's a fully functional SaaS solution.
    - Tech Stack:
-   <br>
+
+           Frontend:
+           Axios, Cloudinary, React Vite, Bootstrap, Auth0, Sweetalert2, jwt-decode.
    
-   | Frontend | Backend |
-   |:-----    |:-----   |
-   | Axios       | mercadopago |
-   | Cloudinary   | joi |   
-   | React vite   | dotenv |
-   | Bootstrap  | bcrypt |
-   | Auth0   | jsonwebtoken |
-   | sweetalert2   | nodemailer |
-   | jwt-decode   | Sequelize |
-   |   | PostgreSQL |
-   |    | Express.js |
-   |   | Node.js |
-   <br>
+           Backend:
+           mercadopago, joi, dotenv, bcrypt, jsonwebtoken, nodemailer, Sequelize, PostgreSQL, Express.js, Node.js.
+   
    
    Frontend: <a href="https://github.com/jFranzBel/front" target="_blank"> Go to the repo</a>
    
