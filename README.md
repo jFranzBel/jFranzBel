@@ -40,7 +40,7 @@ Here's a glimpse of my technology stack:
   <img src="https://img.shields.io/badge/mongodb%20-%2358aa50.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
-## 🚀 Projects
+## Projects
 
 Here are a few projects I've worked on:
 
