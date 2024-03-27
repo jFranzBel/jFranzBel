@@ -44,17 +44,17 @@ Here's a glimpse of my technology stack:
 
 Here are a few projects I've worked on:
 
-1. ### **Henry BootCamp PI - Rick & Morty**
+ ### **Henry BootCamp PI - Rick & Morty**
    - Description: A React serverless app that retrieves and displays data from a public API.
    - Tech Stack: React, Axios.
 <a href="https://github.com/jFranzBel/PI-Rick-Morty" target="_blank"> Go to the repo</a>
 
-2. ### **Henry BootCamp PI - Countries**
+ ### **Henry BootCamp PI - Countries**
    - Description: A React app that fetches data from a public API, processes it, and stores it in a local database for display.
    - Tech Stack: React, Express.js, PostgreSQL, Sequelize.
 <a href="https://github.com/jFranzBel/PI-Countries" target="_blank"> Go to the repo</a>
 
-4. ### **Henry BootCamp Final Proyect - EasySchool**
+ ### **Henry BootCamp Final Proyect - EasySchool**
    - Description:  A full-stack app designed to simplify student enrollment for schools. It's a fully functional SaaS solution.
    - Tech Stack:
 
