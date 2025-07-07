@@ -6,7 +6,7 @@
 </p>
 </div>
 
-# Jonnathan Franz
+# JFranz
 
 Welcome to my GitHub profile! I'm full stack developer with a love for building web applications. I enjoy turning ideas into reality through code and am constantly learning and exploring new technologies.
 <p>
