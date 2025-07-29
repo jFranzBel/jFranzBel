@@ -9,11 +9,7 @@
 # JFranz
 
 Welcome to my GitHub profile! I'm full stack developer with a love for building web applications. I enjoy turning ideas into reality through code and am constantly learning and exploring new technologies.
-<p>
-  <a href="https://www.linkedin.com/in/jonnathan-franz-b3619b2b0/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+
 
 ## Technologies & Tools
 
@@ -32,43 +28,3 @@ Here's a glimpse of my technology stack:
   <img src="https://img.shields.io/badge/postgresql%20-%2358aa50.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/git%20-%23F05133.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 </p>
-
-##  What I'm Currently Learning
-
-<p>
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=TypeScript&color=3178C6&logo=TypeScript&logoColor=FFFFFF&label="/>
-  <img src="https://img.shields.io/badge/mongodb%20-%2358aa50.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
-</p>
-
-## Projects
-
-Here are a few projects I've worked on:
-
- ### **Henry BootCamp PI - Rick & Morty**
-   - Description: A React serverless app that retrieves and displays data from a public API.
-   - Tech Stack: React, Axios.
-<a href="https://github.com/jFranzBel/PI-Rick-Morty" target="_blank"> Go to the repo</a>
-
- ### **Henry BootCamp PI - Countries**
-   - Description: A React app that fetches data from a public API, processes it, and stores it in a local database for display.
-   - Tech Stack: React, Express.js, PostgreSQL, Sequelize.
-<a href="https://github.com/jFranzBel/PI-Countries" target="_blank"> Go to the repo</a>
-
- ### **Henry BootCamp Final Proyect - EasySchool**
-   - Description:  A full-stack app designed to simplify student enrollment for schools. It's a fully functional SaaS solution.
-   - Tech Stack:
-
-           Frontend:
-           Axios, Cloudinary, React Vite, Bootstrap, Auth0, Sweetalert2, jwt-decode.
-   
-           Backend:
-           mercadopago, joi, dotenv, bcrypt, jsonwebtoken, nodemailer, Sequelize, PostgreSQL, Express.js, Node.js.
-   
-   
-   Frontend: <a href="https://github.com/jFranzBel/front" target="_blank"> Go to the repo</a>
-   
-   Backend: <a href="https://github.com/pfDevWorks/back" target="_blank"> Go to the repo</a>
-   <br>
-   
-   Visit deploy in vercel  <a href="https://front-jfranzbel.vercel.app/" target="_blank"> Go to the deploy</a>
-
