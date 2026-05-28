@@ -21,7 +21,8 @@ Here's a glimpse of my technology stack:
   <img src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white"/>
   <img src="https://img.shields.io/badge/react%20-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white"/>
   <img src="https://img.shields.io/badge/nextjs%20-%23764ABC.svg?&style=for-the-badge&logo=nextjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 </p>
 <p>
   <img src="https://img.shields.io/badge/node.js%20-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
